@@ -1,0 +1,17 @@
+
+.header-bg, .navbar-light, .bg-light {
+    background-color: #014460 !important;
+}
+
+nav .logo {
+    width: 40%;
+    height: 53px;
+    display: inline-block;
+}
+
+.header_top_mr_0 p {
+    margin: 0;
+}
+
+
+

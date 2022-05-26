@@ -1,0 +1,25 @@
+.slider-img {
+    height: 500px;
+}
+
+.slider-container {
+    position: relative;
+    color: white;
+}
+
+.content {
+    position: absolute;
+    top: 50px;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+
+.apply-btn {
+    position: absolute;
+    bottom: 20px;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+
